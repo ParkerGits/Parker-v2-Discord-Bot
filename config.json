@@ -1,0 +1,14 @@
+{
+	"prefix": "!",
+    "servers": {},
+    "members": {},
+    "opts": {
+        "maxResults": 5,
+        "order": "relevance",
+        "relevanceLanguage": "en",
+        "language": "en",
+        "type": "video"
+    },
+    "SEARCH_TIMEOUT_MS": 10000,
+    "SKIP_VOTE_TIMEOUT_MS": 30000
+}
