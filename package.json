@@ -9,7 +9,7 @@
     "dotenv": "^8.2.0",
     "ffmpeg-static": "^4.2.5",
     "he": "^1.2.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "opusscript": "0.0.7",
     "youtube-search": "^1.1.4",
     "ytdl-core": "^4.4.3",
